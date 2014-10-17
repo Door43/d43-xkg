@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xkg:home|Door43 (xkg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xkg|d43-xkg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xkg/archive/master.zip|d43-xkg.zip]]
+
+**Recent Changes**
+{{changes>ns = xkg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xkg|Ethnologue data]]
+
